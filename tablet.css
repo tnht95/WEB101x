@@ -1,0 +1,54 @@
+@media (min-width: 576px) {
+  nav {
+    background-color: #076fda;
+    margin: 0 -15px;
+    padding: 20px 45px!important;
+  }
+
+  header li a, header i, #brand{
+    color: white!important;
+  }
+
+  #about-us {
+    padding: 20px 45px!important;
+  }
+
+  #about-us h2 {
+    font-size: 1.2rem;
+  }
+
+  #about-us p {
+    font-size: 1rem;
+  }
+
+  section {
+    padding: 30px;
+  }
+
+  #our-business {
+    margin-top: 5%;
+  }
+
+  .content-our-business {
+   text-align: left;
+  }
+  #our-business .inside {
+    padding: 40px;
+    font-size: 20px;
+  }
+  #image-our-business {
+    height: 400px;
+  }
+  .content-our-business {
+    margin-left: 20px;
+  }
+
+  footer .subscription-form {
+    width: 60%;
+    margin: 0;
+  }
+
+  #footer {
+    padding: 30px; 
+  }
+}

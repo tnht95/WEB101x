@@ -1,0 +1,202 @@
+#brand {
+  color: #1467c7;
+}
+
+.nav-link i {
+  color: black;
+}
+
+header {
+  color: white;
+}
+
+#about-us {
+  padding: 0px 20px 0px 20px;
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+#about-us p {
+  font-size: 1.2rem;
+}
+
+.blue-icon {
+  color: #1467c7;
+}
+
+section {
+  padding: 40px 0;
+}
+#our-business {
+  color: white;
+  margin-top: 20%;
+}
+
+#our-business div {
+  padding: 0px;
+}
+#our-business .title-section::before {
+  color: inherit;
+}
+#our-business .inside p {
+  text-align: center;
+}
+#our-business .inside img {
+  width: 50px;
+  height: 50px;
+}
+#our-business .inside {
+  position: absolute;
+  padding: 10px;
+  top: 0;
+  font-size: 15px;
+}
+.no-margin {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.overflow-hidden {
+  overflow: hidden;
+}
+#image-our-business {
+  height: 550px;
+}
+.content-our-business {
+  text-align: center;
+}
+
+#our-business .inside .our-business-title {
+  padding-left: 10%;
+  margin-bottom: 5%;
+}
+
+#our-business .inside p {
+  margin-bottom: 0;
+}
+
+.news-card {
+  height: fit-content;
+  margin-bottom: 20px;
+}
+
+.news-card img {
+  padding: 0!important;
+}
+
+.news-card h3 {
+  font-size: 20px;
+}
+
+#contact img {
+  height: 100%;
+}
+
+#contact input, #contact-page input{
+  height: 3rem;
+  margin-bottom: 1rem;
+  color: gray;
+}
+
+#contact textarea, #contact-page textarea {
+  height: 10rem;
+  margin-bottom: 1rem;
+  color: gray;
+}
+
+#contact button, #contact-page button{
+  border: none;
+  height: 3rem;
+  width: 10rem;
+  background-color: #fcbe03;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+
+.title {
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+
+footer li{
+  list-style: none;
+}
+
+footer a {
+  color: inherit;
+}
+
+footer i {
+  margin-right: 10px;
+}
+
+footer ul {
+  padding-left: 0;
+}
+
+footer .subscription-form input {
+  background-color: transparent;
+  color: gray;
+  border: none;
+}
+
+
+
+footer .subscription-form {
+  border-bottom: 1px solid;
+  margin: 0 20px 0 20px;
+}
+
+footer .subscription-form button {
+  width: 6rem;
+}
+
+#footer {
+  padding: 40px 0 40px 10px;
+  border-bottom: 1px solid;
+}
+
+#copyrights {
+  width: 100%;
+  padding: 10px;
+  margin: 0;
+}
+
+#about-us-page a {
+  color: #fcbe03;
+}
+
+.news-post {
+  border-bottom: 1px solid gray;
+  font-weight: 500;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.news-post-container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.news-post-img-wrapper {
+  overflow: hidden;
+  height: 7rem;
+}
+
+.news-post-img {
+  width: 15rem;
+}
+
+#news-page .news-card {
+  margin-bottom: 2rem;
+}
